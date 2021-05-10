@@ -1,5 +1,4 @@
 
-![Y7](https://user-images.githubusercontent.com/51814996/117650585-86dd2d80-b1ae-11eb-9aa6-6505f6cca499.jpg)
 
 <br/>
 <p align="center">
