@@ -1,10 +1,10 @@
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/README_1200x800.gif">
+  <img src="C:\brain_tumor_dataset\train\yes\Y7.jpg">
 </p>
 
 <p align="center">
-  <img src="C:\brain_tumor_dataset\train\yes\Y7.jpg">
+  <img src="">
   <br/>
 </p>
 
