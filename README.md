@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/coversmall_alt.png">
+  <img src="C:\brain_tumor_dataset\train\yes\Y7.jpg">
   <br/>
 </p>
 
