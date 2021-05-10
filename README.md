@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="C:\brain_tumor_dataset\train\yes\Y7.jpg">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fradiopaedia.org%2Farticles%2Fbrain-tumours&psig=AOvVaw3elvVq5ca9BGnxI6_FcE-v&ust=1620731025280000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj9t9r7vvACFQAAAAAdAAAAABAD">
 </p>
 
 <p align="center">
